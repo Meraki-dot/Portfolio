@@ -1,7 +1,6 @@
 import React from 'react';
 
 export default [{
-  name: 'typy',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
@@ -13,8 +12,8 @@ export default [{
         Awesome eyebrow tattoo artist web page!
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-github"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/DollfacePMU"></a></i>
-        <i className="fab fa-google"></i>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/DollfacePMU"><i className="fab fa-github"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://photos.google.com/u/2/album/AF1QipPML0kkT1Qv7NI1VDZLBVufKqDlnq-zNac2OHdF"><i className="fab fa-google"></i></a>
       </div>
       <div className='portfolio-item__links'>
         <p>.</p>
@@ -32,8 +31,8 @@ export default [{
         Fitness focused webapp to track calories and meal plan.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-github"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/novusoma"></a></i>
-        <i className="fab fa-google"></i>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/novusoma"><i className="fab fa-github"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://photos.google.com/u/2/share/AF1QipNT8neyK0qPHubdcPZLmcQKa_oayM2Fish18nj_OF4V8_PLaOzTqOG4RRCaANjwrw?key=ZExDc1F4cVhwbll1dEd4MnRkZ3gyel9lY290T3R3"><i className="fab fa-google"></i></a>
       </div>
       <div className='portfolio-item__links'>
         <p>.</p>
@@ -51,8 +50,8 @@ export default [{
         Enabling people to do something bigger and pay for aspiring students' tuitions.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-github"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/FundedU"></a></i>
-        <i className="fab fa-google"></i>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/FundedU"><i className="fab fa-github"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://photos.google.com/u/2/share/AF1QipOpIFLUcX5suQF1ucAjZ1KtcMXou1Vr4ircK5wrOJA2cF6dDnrw6H0AbEUYOVY7UA?key=NFJBaW9NOGlvNXR6ZXliOGp1a2lMWjhremM4alRB"><i className="fab fa-google"></i></a>
       </div>
       <div className='portfolio-item__links'>
         <p>.</p>
