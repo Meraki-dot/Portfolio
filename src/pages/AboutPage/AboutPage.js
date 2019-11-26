@@ -29,7 +29,7 @@ const AboutPage = (props, context) => {
               everything <b>tech</b>.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
+              When my dev senses kick-in I build{' '}
               <b> awesome stuff</b>. I am always learning, always improving, always adapting and always building.
             </p>
             <p>

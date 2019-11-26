@@ -10,7 +10,6 @@ const themes = [
   },
   {
     name: 'cyan',
-    firstTime: true,
     colorPrimary: '#3dc0b0',
     colorAlternate: '#FAFAFA',
     colorHighlight: '#d7f2ef',
@@ -75,6 +74,7 @@ const themes = [
   },
   {
     name: 'red-alt',
+    firstTime: true,
     colorPrimary: '#FFFFFF',
     colorAlternate: '#89303d',
     colorHighlight: '#63232c',
@@ -91,6 +91,7 @@ const themes = [
   },
   {
     name: 'grey-alt',
+    firstTime: true,
     colorPrimary: '#FFFFFF',
     colorAlternate: '#485564',
     colorHighlight: '#333c46',
