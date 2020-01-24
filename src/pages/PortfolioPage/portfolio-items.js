@@ -13,7 +13,7 @@ export default [{
       </div>
       <div className='portfolio-item__icon'>
       <a target="_blank" rel="noopener noreferrer" href="https://github.com/Meraki-dot/DollfacePMU"><i className="fab fa-github"></i></a>
-      <a target="_blank" rel="noopener noreferrer" href="https://photos.google.com/u/2/album/AF1QipPML0kkT1Qv7NI1VDZLBVufKqDlnq-zNac2OHdF"><i className="fab fa-google"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://photos.app.goo.gl/5Sa6DsRudzf2XRvPA"><i className="fab fa-google"></i></a>
       </div>
       <div className='portfolio-item__links'>
         <p>.</p>
