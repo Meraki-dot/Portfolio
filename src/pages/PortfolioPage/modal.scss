@@ -1,0 +1,26 @@
+.open-modal-button {
+    width: 10em;
+    background-color: transparent;
+    // border: 1px solid $colorPrimary;
+     & p {
+        font-family: 'Roboto', 'sans-serif';
+        font-weight: bold;
+     }
+}
+
+.ReactModalPortal {
+    & .ReactModal__Overlay {
+        & .ReactModal__Content {
+            background-color: white !important;
+            & .modal-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                & .modal-title-container {
+                    
+                }
+            }
+        }
+    }
+}

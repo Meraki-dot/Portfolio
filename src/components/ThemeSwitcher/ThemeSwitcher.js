@@ -53,9 +53,12 @@ class ThemeSwitcher extends Component {
         {`
           body {
             background-color: ${theme.bgPrimary};
-            body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+            body, h1, h2, h3, h4, h5, h6, p, ol, ul, button {
               color: ${theme.textPrimary}
             }
+          }
+          button {
+            border: 1px solid ${theme.bgPrimary};
           }
         `}
         </style>
